@@ -21,7 +21,7 @@
  
  1. Set the grid node to allow OSC output (you may need to edit settings.properties to do this)
  2. Install the latest version of TekOSC by importing the .unitypackage
- 3. Place the relevant Prefab, depending on if you are using the grid in vertical or horizontal mode, into the scene (TekView>Prefabs)
+ 3. Place the relevant Prefab, depending on if you are using the grid in vertical or horizontal mode, into the scene (TekOSC>Prefabs)
  4. If you are using "Expanded Universe Support" (Or RGB mode as the grid node calls it), check the 'Expanded Universe Support' option on the prefab
  5. Enter play mode and test your lighting!
  
